@@ -1,6 +1,6 @@
-# python-starter-kit
+# go-starter-kit
 
-Python starter kit
+Go starter kit
 
 ## Author
 
