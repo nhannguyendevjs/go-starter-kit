@@ -1,5 +1,7 @@
 # Standard Go Project Layout
 
+[Go Starter Kit](https://github.com/nhannguyendevjs/go-starter-kit)
+
 ## Overview
 
 This is a basic layout for Go application projects. Note that it's basic in terms of content because it's focusing only on the general layout and not what you have inside. It's also basic because it's very high level and it doesn't go into great details in terms of how you can structure your project even further. For example, it doesn't try to cover the project structure you'd have with something like Clean Architecture.
